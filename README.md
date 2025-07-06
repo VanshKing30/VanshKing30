@@ -13,15 +13,15 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vanshking30" alt="vanshking30" /></a> </p>
 
-- 🔭 I’m currently working on [To-do List](https://github.com/VanshKing30/To-do-App)
+- 🔭 I’m currently working on [CodeNest](https://github.com/VanshKing30/codenest)
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **System Design**
 
 - 👯 I’m looking to collaborate on **Open Source Project's**
 
 - 👨‍💻 All of my projects are available at [https://github.com/VanshKing30](https://github.com/VanshKing30)
 
-- 💬 Ask me about **HTML , CSS , JS**
+- 💬 Ask me about **HTML , CSS , JS , React , ExpressJs **
 
 - 📫 How to reach me **vanshwaldeo360@gmail.com**
 
